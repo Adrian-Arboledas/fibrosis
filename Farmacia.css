@@ -6,6 +6,24 @@
     border: 0;
 }
 
+header {
+  height: 10vh;
+  width: 100vw;
+  background-color: bisque;
+}
+main {
+  height: 75vh;
+  width: 100vh;
+}
+.link {
+margin-left: 2em;
+}
+footer {
+  height: 15vh;
+  width: 100vw;
+  background-color: blue;
+}
+
 .row::after {
     content: "";
     clear: both;

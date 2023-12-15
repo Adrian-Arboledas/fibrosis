@@ -6,6 +6,10 @@
     border: 0;
 }
 
+.body{
+  min-height: 100vh;
+}
+
 header {
   height: 10vh;
   width: 100vw;

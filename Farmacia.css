@@ -16,7 +16,7 @@ header {
   background-color: bisque;
 }
 main {
-  height: 75vh;
+  height: auto;
   width: 100vw;
 }
 
@@ -24,6 +24,7 @@ footer {
   height: 15vh;
   background-color: blue;
   display: flex;
+  position: relative;
 }
 
 .row::after {

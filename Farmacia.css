@@ -122,3 +122,18 @@ footer {
   height: 5em;
   width: 15em;
 }
+.fotoGrande{
+  display: flex;
+  height: 500px;
+   width: 700px;
+}
+.fotoMediana{
+  display: flex;
+  height: 400px;
+   width: 660px;
+}
+.fotoPequeña{
+  display: flex;
+  height: 200px;
+   width: 400px;
+}

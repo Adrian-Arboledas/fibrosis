@@ -20,6 +20,9 @@ main {
   width: 100vw;
   align-items: center;
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
 }
 
 footer {
@@ -38,6 +41,10 @@ footer {
 [class*="col-"] {
     float: left;
     padding: 15px;
+}
+
+.texto {
+  width:30vw;
 }
 
 /* Mobile First --> Default columns */

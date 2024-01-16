@@ -117,3 +117,8 @@ footer {
   .col-xl-11 {width: 91.66%;}
   .col-xl-12 {width: 100%;}
 }
+.logoEducem{
+  display: flex;
+  height: 5em;
+  width: 15em;
+}

@@ -24,7 +24,7 @@ main {
 
 footer {
   height: 15vh;
-  background-color: 	#1630BE;
+  background-color: rgb(0, 181, 236);
   display: flex;
   position: relative;
 }

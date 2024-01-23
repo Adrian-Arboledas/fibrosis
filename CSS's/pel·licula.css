@@ -19,7 +19,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content:space-evenly;
-  margin: 20px;
+  
 }
 
 footer {
@@ -137,8 +137,8 @@ footer {
   }
   .fotoMediana{
     display: flex;
-    height: 400px;
-     width: 660px;
+    height: 25em;
+     width: 41,25em;
   }
   .fotoPequeña{
     display: flex;

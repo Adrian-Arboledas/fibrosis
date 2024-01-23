@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+  }
+.row{
+    flex-direction: row;
+  }
+.column{
+    flex-direction: column;
+  }
+.size1{
+    flex: 1;
+  }
+.size2{
+    flex: 2;
+  }
+.size3{
+    flex: 3;
+  }
+.size4{
+    flex: 4;
+  }

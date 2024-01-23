@@ -16,17 +16,34 @@ header {
   display: flex;
 }
 main {
-  height: 70vh;
   width: 100vw;
   align-items: center;
   text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content:space-evenly;
+  font-size: large;
+  margin: 20px;
 }
 
 h2{
     flex-direction: column;
+}
+
+.pulmonar{
+    flex: row;
+}
+
+.fotopulmonar{
+    
+}
+
+.pancreas{
+
+}
+
+.fetge{
+
 }
 
 footer {

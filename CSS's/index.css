@@ -1,5 +1,10 @@
-*{
-    
+main{
+    background-image: url("./../Fotos/image13.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:100vw;
+     background-size: cover;
+
 }
 
 h1 {
@@ -20,3 +25,5 @@ h1 {
 footer{
     display: flex;
 }
+
+

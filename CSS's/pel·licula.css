@@ -13,13 +13,13 @@ header {
   display: flex;
 }
 main {
-  height: 70vh;
   width: 100vw;
   align-items: center;
   text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content:space-evenly;
+  margin: 20px;
 }
 
 footer {
@@ -41,7 +41,11 @@ footer {
 }
 
 .texto {
-  width:30vw;
+  width:79vw;
+  
+  text-align: center;
+  margin: 20px;
+  
 }
 
 /* Mobile First --> Default columns */
@@ -121,3 +125,23 @@ footer {
   .col-xl-11 {width: 91.66%;}
   .col-xl-12 {width: 100%;}
 }
+.logoEducem{
+    display: flex;
+    height: 5em;
+    width: 15em;
+  }
+  .fotoGrande{
+    display: flex;
+    height: 500px;
+     width: 700px;
+  }
+  .fotoMediana{
+    display: flex;
+    height: 400px;
+     width: 660px;
+  }
+  .fotoPequeña{
+    display: flex;
+    height: 200px;
+     width: 400px;
+  }

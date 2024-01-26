@@ -25,6 +25,16 @@ main {
   font-size: large;
   margin: 20px;
 }
+div h5{
+  padding-bottom: 2em;
+}
+.divFill{
+  padding: 2em;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: larger;
+}
 
 h2{
     flex-direction: column;
@@ -33,17 +43,9 @@ h2{
 .pulmonar{
     flex: row;
 }
-
-.fotopulmonar{
-    
-}
-
-.fotopancreas{
-
-}
-
-.fotofetge{
-
+.imgFibrosis{
+  max-width: 15em;
+  max-height: 15em;
 }
 
 footer {

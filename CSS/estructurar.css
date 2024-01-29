@@ -19,3 +19,17 @@
 .size4{
     flex: 4;
   }
+.logoEducem{
+  display: flex;
+  height: 5em;
+  width: 15em;
+}
+
+.divFill{
+  padding: 2em;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: larger;
+}
+

@@ -8,5 +8,9 @@ header{
 
 body{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+}
+
+.a{
+    flex-direction: column;
 }

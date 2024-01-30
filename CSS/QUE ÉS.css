@@ -1,13 +1,25 @@
 *{
-
+    font-size: large;
+    margin: 5px;
 }
 
 header{
-
+    
 }
 
-main{
+h1{
+    font-size: x-large;
+}
 
+main p{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.divFill{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
 }
 
 .back{

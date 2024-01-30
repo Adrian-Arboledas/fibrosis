@@ -9,7 +9,6 @@
 header {
   height: 10vh;
   width: 100vw;
-  background-color: bisque;
   display: flex;
 }
 main {
@@ -24,7 +23,6 @@ main {
 
 footer {
   height: 15vh;
-  background-color: rgb(0, 181, 236);
   display: flex;
   position: relative;
 }

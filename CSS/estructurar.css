@@ -7,6 +7,9 @@
 .column{
     flex-direction: column;
   }
+.size05{
+    flex: 0.5;
+  }
 .size1{
     flex: 1;
   }

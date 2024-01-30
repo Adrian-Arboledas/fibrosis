@@ -1,0 +1,11 @@
+.txt{
+    font-size: larger;
+    margin: 4em;
+}
+
+.img {
+    margin: 4em;
+    border-radius: 1em;
+    width: 50vw;
+    height: 50vh;
+}

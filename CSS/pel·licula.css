@@ -14,7 +14,7 @@ header {
 main {
   width: 100vw;
   align-items: center;
-  text-align: center;
+  text-align: left;
   display: flex;
   flex-direction: column;
   justify-content:space-evenly;
@@ -39,9 +39,9 @@ footer {
 }
 
 .texto {
-  width:79vw;
-  text-align: center;
-  margin: 20px;
+  font-size: large;
+  text-align: left;
+  margin: 3em;
   
 }
 
@@ -137,10 +137,8 @@ footer {
     height: 25em;
      width: 41,25em;
   }
-  .fotoPequeña{
-    display: flex;
-    height: 200px;
-     width: 400px;
+  .fotoPeque{
+border-radius: 1em;
   }
   body{
     background-color: #c7f7f7;

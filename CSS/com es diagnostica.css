@@ -1,0 +1,10 @@
+.texto{
+    font-size: x-large;
+    margin: 4em;
+    text-align: left;
+}
+
+.img{
+    border-radius: 1em;
+    margin: 2em;
+}

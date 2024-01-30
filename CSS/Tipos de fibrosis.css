@@ -45,10 +45,16 @@ h2{
 .imgFibrosis{
   max-width: 15em;
   max-height: 15em;
+  border-radius: 1em;
 }
 
 footer {
   height: 15vh;
   display: flex;
   position: relative;
+}
+
+body, p {
+  font-size: large;
+  text-align: left;
 }

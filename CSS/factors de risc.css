@@ -1,3 +1,12 @@
 p{
-    font-size: large;
+    font-size: x-large;
+    margin: 4em;
+    text-align: left;
+}
+
+.img{
+    border-radius: 1em;
+    margin: 2em;
+    width: 43em;
+    height: 30em;
 }

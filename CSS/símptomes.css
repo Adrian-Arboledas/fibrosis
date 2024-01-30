@@ -11,6 +11,10 @@ body{
     flex-direction: column;
 }
 
+.txt{
+    font-size: large;
+    margin: 4em;
+}
 .a{
     flex-direction: column;
 }

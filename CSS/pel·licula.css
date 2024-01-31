@@ -38,6 +38,10 @@ footer {
     padding: 15px;
 }
 
+p{
+  font-size: large;
+}
+
 .texto {
   font-size: large;
   text-align: left;

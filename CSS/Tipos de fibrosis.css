@@ -21,7 +21,7 @@ main {
   margin: 20px;
 }
 div h3{
-  padding-bottom: 2em;
+  margin: 2em;
 }
 .divFill{
   padding: 2em;
@@ -46,4 +46,9 @@ footer {
 body, p {
   font-size: large;
   text-align: left;
+}
+
+.tittle{
+  font-size: larger;
+  margin: 2em;
 }

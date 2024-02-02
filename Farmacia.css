@@ -20,9 +20,14 @@ footer{
   border: 1px black solid;
 }
 
-body{
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+main{
   background-color: #c7f7f7;
-  background-image: url("./../Fotos/fons.png");
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./../Fotos/fons.png") no-repeat center;
   background-repeat: no-repeat;
   background-position:right;
   background-position-y: bottom;
@@ -157,10 +162,14 @@ footer {
   .col-xl-12 {width: 100%;}
 }
 
+
+
 .logoEducem{
   display: flex;
   height: 5em;
   width: 15em;
+  
+  justify-content: left;
 }
 /*
 .fotoGrande{
@@ -178,3 +187,26 @@ footer {
   height: 200px;
    width: 400px;
 }*/
+
+
+
+footer {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  list-style: none;
+}
+
+.col p {
+  color: white;
+  padding: 0.5rem;
+}
+
+.col p:hover {
+  border-radius: 6rem;
+  background-color: black;
+
+  animation: ease-in-out 0.4sec;
+}

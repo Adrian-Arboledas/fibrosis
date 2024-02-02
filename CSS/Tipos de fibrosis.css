@@ -24,7 +24,7 @@ main {
   font-size: large;
   margin: 20px;
 }
-div h5{
+div h3{
   padding-bottom: 2em;
 }
 .divFill{
@@ -35,13 +35,6 @@ div h5{
   font-size: larger;
 }
 
-h2{
-    flex-direction: column;
-}
-
-.pulmonar{
-    flex: row;
-}
 .imgFibrosis{
   max-width: 15em;
   max-height: 15em;

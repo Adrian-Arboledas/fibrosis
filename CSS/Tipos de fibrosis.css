@@ -9,11 +9,7 @@
   min-height: 100vh;
 }
 
-header {
-  height: 15vh;
-  width: 100vw;
-  display: flex;
-}
+
 main {
   width: 100vw;
   align-items: center;
